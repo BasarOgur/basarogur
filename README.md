@@ -23,7 +23,6 @@ I enjoy exploring new approaches, experimenting with the latest developments in 
 My technical background includes experience with **Python, SQL, and backend technologies**, and I am continuously expanding my skills across software engineering, intelligent systems, data-driven applications, and emerging AI ecosystems.
 
 My main interests include:
-
 - Machine Learning
 - Artificial Intelligence
 - Data Science
@@ -37,7 +36,6 @@ My main interests include:
 # 🧠 AI Focus
 
 Currently exploring and building projects in:
-
 - Machine Learning systems
 - AI-powered applications
 - LLM-based systems
@@ -52,8 +50,7 @@ Currently exploring and building projects in:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasarOgur&layout=compact&theme=radical" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasarOgur&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasarOgur&theme=radical" height="165"/>
 
 </div>
 
@@ -63,7 +60,7 @@ Currently exploring and building projects in:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasarOgur&theme=default"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasarOgur&theme=radical"/>
 
 </div>
 
@@ -74,7 +71,7 @@ Currently exploring and building projects in:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/basarogur/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -83,7 +80,7 @@ Currently exploring and building projects in:
 
 <div align="center">
 
-![snake gif](https://github.com/BasarOgur/BasarOgur/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/BasarOgur/BasarOgur/output/github-snake-dark.svg)
 
 </div>
 
@@ -94,7 +91,6 @@ Currently exploring and building projects in:
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=BasarOgur&label=Profile%20Views&style=flat"/>
-
 <img src="https://img.shields.io/github/followers/BasarOgur?label=Followers&style=flat"/>
 
 </div>
