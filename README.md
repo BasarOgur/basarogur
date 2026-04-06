@@ -45,6 +45,17 @@ Currently exploring and building projects in:
 
 ---
 
+# 🚀 Featured Projects
+
+### [Ultimate Brightness Control](https://basarogur.github.io/ultimate-brightness-control/)
+I developed and published a **Google Chrome Extension** that provides advanced brightness control, specifically solving the issue of dimming persistence in fullscreen and iframe video players.
+
+- **Status:** Published on Chrome Web Store
+- **Key Feature:** Persistent overlay technology for seamless video experience.
+- **Link:** [View on Chrome Web Store](https://chromewebstore.google.com/detail/ultimate-brightness-contr/aphlgggadlnkbollflohodmikgkkkeje)
+
+---
+
 # 📊 GitHub Performance Overview
 
 <div align="center">
