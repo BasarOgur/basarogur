@@ -60,7 +60,7 @@ I developed and published a **Google Chrome Extension** that provides advanced b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasarOgur&layout=compact&theme=radical" height="165"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=BasarOgur&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api?username=BasarOgur&show_icons=true&theme=radical)" height="165"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BasarOgur&theme=radical" height="165"/>
 
 </div>
