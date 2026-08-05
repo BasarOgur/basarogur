@@ -71,7 +71,7 @@ I developed and published a **Google Chrome Extension** that provides advanced b
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasarOgur&theme=radical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasarOgur&theme=react-dark" height="300"/>
 
 </div>
 
